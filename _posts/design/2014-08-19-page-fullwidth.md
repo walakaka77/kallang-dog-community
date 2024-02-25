@@ -12,7 +12,7 @@ header:
 <!--more-->
 
 <div class="row">
-    <div class="medium-4 columns t30">
+    <div class="medium-4 columns t30 b30">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
