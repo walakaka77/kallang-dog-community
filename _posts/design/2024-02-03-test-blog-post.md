@@ -3,6 +3,7 @@ layout: page
 title:  "Test Blog Post"
 subheadline:  "Test for Kallang Dog Community"
 teaser: "Small teaser for those interested in Kallang Dog Community"
+show_meta: false
 categories:
     - test
 # tags:
@@ -16,21 +17,8 @@ header:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
-It's so easy to do. Just define in front matter your image.
-<!--more-->
-
-## Front Matter Code
-
-~~~
-header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
 
 
+## The Best Community
 
-### All Header-Styles 
-{: .t60 }
-
-{% include list-posts tag='header' %}
+Some test data to give some lorem ipsum content. Some test data to give some lorem ipsum content. Some test data to give some lorem ipsum content. Some test data to give some lorem ipsum content. Some test data to give some lorem ipsum content. Some test data to give some lorem ipsum content. Some test data to give some lorem ipsum content
